@@ -1,10 +1,9 @@
-<h2><b>Matheus Souza Santana </h2>
-Brasileiro, 17 anos, Solteiro.
-Rua Cristóvão Colombo – Santa Tereza - São Leopoldo/RS
-Telefone: (51) 992365816 - E-mail: matheus.070202@gmail.com
-Github:https://github.com/MatheusSouza072
-      Perfil Profissional:
--  Organizado, proativo, comprometido com resultados, facilidade para atuar em equipes, muita determinação e força de vontade para aprender.
+<h2><b>Matheus Souza Santana </b></h2>
+Brasileiro, 17 anos, Solteiro.<br>
+Rua Cristóvão Colombo – Santa Tereza - São Leopoldo/RS <br>
+Telefone: (51) 992365816 - E-mail: matheus.070202@gmail.com <br>
+<h4><b>Perfil Profissional:</b></h4>
+      -  Organizado, proativo, comprometido com resultados, facilidade para atuar em equipes, muita determinação e força de vontade para aprender.
 
 FORMAÇÃO
     • Técnico Informática (QI), CONCLUÍDO.
