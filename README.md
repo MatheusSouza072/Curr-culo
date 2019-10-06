@@ -5,7 +5,7 @@ Telefone: (51) 992365816 - E-mail: matheus.070202@gmail.com <br>
 <h4><b>Perfil Profissional:</b></h4>
 &nbsp;&nbsp;&nbsp;      -  Organizado, proativo, comprometido com resultados, facilidade para atuar em equipes, muita determinação e força de vontade para aprender.
 
-<h4><b>FORMAÇO</b></h4><br>
+<h4><b>FORMATO</b></h4><br>
     &nbsp;&nbsp;&nbsp;• Técnico Informática (QI), CONCLUÍDO.<br>
     &nbsp;&nbsp;&nbsp;• Ensino Médio, em andamento.<br>
 <h4><b>LÍNGUAS</b></h4><br>
