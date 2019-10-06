@@ -24,4 +24,4 @@ Telefone: (51) 992365816 - E-mail: matheus.070202@gmail.com <br>
   &nbsp;&nbsp;&nbsp;  • Treinamento Automação de Testes Web e API – CWI Software<br>
 &nbsp;&nbsp;&nbsp;    • Git e Github (Udemy)<br>
 <h4><b>EXPERIÊNCIA PROFISSIONAL</b></h4><br>
-<b>Cargo</b>: Buscando oportunidade em um time de desenvolvimento Ágil.
+Buscando oportunidade em um time de desenvolvimento Ágil.
