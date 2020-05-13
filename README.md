@@ -8,7 +8,7 @@ Telefone: (51) 992365816 - E-mail: matheus.070202@gmail.com <br>
 <h4><b>FORMAÇÃO</b></h4>
 &nbsp;&nbsp;&nbsp;• Técnico Informática (QI), CONCLUÍDO.<br>
 &nbsp;&nbsp;&nbsp;• Ensino Médio, em andamento.<br><br>
-<h4><b>LÍNGUAS</b></h4><br>
+<h4><b>LÍNGUAS</b></h4>
 &nbsp;&nbsp;&nbsp;• Português (Fluente)<br>
 &nbsp;&nbsp;&nbsp; • Inglês (Básico)<br><br>
 <h4><b>QUALIFICAÇÕES</b></h4><br>
