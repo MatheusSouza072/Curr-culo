@@ -11,7 +11,7 @@ Telefone: (51) 992365816 - E-mail: matheus.070202@gmail.com <br>
 <h4><b>LÍNGUAS</b></h4>
 &nbsp;&nbsp;&nbsp;• Português (Fluente)<br>
 &nbsp;&nbsp;&nbsp; • Inglês (Básico)<br><br>
-<h4><b>QUALIFICAÇÕES</b></h4><br>
+<h4><b>QUALIFICAÇÕES</b></h4>
 &nbsp;&nbsp;&nbsp;• Linguagem Java (Udemy)<br>
 &nbsp;&nbsp;&nbsp;• Formação Java (Alura)<br>
 &nbsp;&nbsp;&nbsp;• Maratona Java (DevDojo)<br>
