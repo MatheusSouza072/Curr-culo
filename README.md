@@ -5,7 +5,7 @@ Telefone: (51) 992365816 - E-mail: matheus.070202@gmail.com <br>
 <h4><b>PERFIL PROFISSIONAL</b></h4>
 &nbsp;&nbsp;&nbsp;      -  Organizado, proativo, comprometido com resultados, facilidade para atuar em equipes, muita determinação e força de vontade para aprender.
 <br>
-<h4><b>FORMAÇÃO</b></h4><br>
+<h4><b>FORMAÇÃO</b></h4>
 &nbsp;&nbsp;&nbsp;• Técnico Informática (QI), CONCLUÍDO.<br>
 &nbsp;&nbsp;&nbsp;• Ensino Médio, em andamento.<br><br>
 <h4><b>LÍNGUAS</b></h4><br>
@@ -24,5 +24,5 @@ Telefone: (51) 992365816 - E-mail: matheus.070202@gmail.com <br>
 &nbsp;&nbsp;&nbsp;• Treinamento Automação de Testes Web e API – CWI Software<br>
 &nbsp;&nbsp;&nbsp;• Git e Github (Udemy)<br>
 <br>
-<h4><b>EXPERIÊNCIA PROFISSIONAL</b></h4><br>
+<h4><b>EXPERIÊNCIA PROFISSIONAL</b></h4>
 Buscando oportunidade em um time de desenvolvimento Ágil.
