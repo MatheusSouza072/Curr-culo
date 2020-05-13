@@ -1,5 +1,5 @@
 <h2><b>Matheus Souza Santana </b></h2>
-Brasileiro, 17 anos, Solteiro.<br>
+Brasileiro, 18 anos, Solteiro.<br>
 Rua Cristóvão Colombo – Santa Tereza - São Leopoldo/RS <br>  
 Telefone: (51) 992365816 - E-mail: matheus.070202@gmail.com <br>
 <h4><b>PERFIL PROFISSIONAL</b></h4>
@@ -23,6 +23,6 @@ Telefone: (51) 992365816 - E-mail: matheus.070202@gmail.com <br>
 &nbsp;&nbsp;&nbsp;• Selenium WebDriver(Udemy)<br>
 &nbsp;&nbsp;&nbsp;• Treinamento Automação de Testes Web e API – CWI Software<br>
 &nbsp;&nbsp;&nbsp;• Git e Github (Udemy)<br>
-<br><br>
+<br>
 <h4><b>EXPERIÊNCIA PROFISSIONAL</b></h4><br>
 Buscando oportunidade em um time de desenvolvimento Ágil.
